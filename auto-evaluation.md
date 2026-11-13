@@ -9,7 +9,7 @@
 | 3 | non abordée | | | |
 | 4 | terminée | MCD et MLD rédigés. 4 tables créées. 5 clés étrangères et 2 contraintes CHECK vérifiées. Script exécuté deux fois. Insertions avec site inexistant et quantité nulle refusées | `createdb` | 1h30 |
 | 5 | partielle | Configuration SQLAlchemy avec `DATABASE_URL`, chemins des fichiers définis, fonction de lecture CSV commencée | Manque de temps pour terminer le chargement en base, la gestion des rejets et la journalisation. Je passe au SQL car je suis plus à l'aise et manque de temps. | 30min |
-| 6 | non abordée | | | |
+| 6 | partielle | Requêtes 1, 2, 3 et 5 rédigées | Manque de temps. Je sais que le .env se trouve dans le zip.. J'ai été prise par le temps | 30/40 min |
 | 7 | non abordée | | | |
 
 ## Ce que je sais faire mieux qu'en septembre
