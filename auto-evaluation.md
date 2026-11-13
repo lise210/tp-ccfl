@@ -8,7 +8,7 @@
 | 2 | partiellement | Chargement, dates, valeurs manquantes, conversion des prix, tris, agrégats et jointures. 4618 lignes après fusion. 21 sans matériel | Arrêt par manque de temps | 11h25 à 12h00 (35 min) | 
 | 3 | non abordée | | | |
 | 4 | terminée | MCD et MLD rédigés. 4 tables créées. 5 clés étrangères et 2 contraintes CHECK vérifiées. Script exécuté deux fois. Insertions avec site inexistant et quantité nulle refusées | `createdb` | 1h30 |
-| 5 | non abordée | | | |
+| 5 | partielle | Configuration SQLAlchemy avec `DATABASE_URL`, chemins des fichiers définis, fonction de lecture CSV commencée | Manque de temps pour terminer le chargement en base, la gestion des rejets et la journalisation. Je passe au SQL car je suis plus à l'aise et manque de temps. | 30min |
 | 6 | non abordée | | | |
 | 7 | non abordée | | | |
 
